@@ -1,0 +1,8 @@
+[Item]
+Name=Colorize - Hue
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=http://qt.gitorious.org/qt-labs/qtgraphicaleffects
+StartUrl=examples/ColorizeShader/ColorizeHue.qml
+ImageUrl=images/hue.png
+Online=1

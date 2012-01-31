@@ -1,0 +1,13 @@
+[Item]
+Name=Curtain
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=https://qt.gitorious.org/qt-labs/qml1-shadersplugin
+StartUrl=Curtain.qml
+ImageUrl=images/curtain.png
+Online=1
+[Resources]
+Curtain.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/Curtain.qml
+CurtainEffect.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/CurtainEffect.qml
+images/qt-logo.png=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/qt-logo.png
+images/fabric.jpg=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/fabric.jpg

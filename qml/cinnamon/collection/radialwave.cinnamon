@@ -1,0 +1,12 @@
+[Item]
+Name=Radial Wave
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=https://qt.gitorious.org/qt-labs/qml1-shadersplugin
+StartUrl=RadialWave.qml
+ImageUrl=images/radialwave.png
+Online=1
+[Resources]
+RadialWave.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/RadialWave.qml
+RadialWaveEffect.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/RadialWaveEffect.qml
+images/wave.jpg=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/wave.jpg

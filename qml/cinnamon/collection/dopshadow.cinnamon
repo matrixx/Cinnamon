@@ -1,0 +1,13 @@
+[Item]
+Name=DropShadow
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=https://qt.gitorious.org/qt-labs/qml1-shadersplugin
+StartUrl=DropShadow.qml
+ImageUrl=images/dropshadow.png
+Online=1
+[Resources]
+DropShadow.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/DropShadow.qml
+DropShadowEffect.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/DropShadowEffect.qml
+images/bg.jpg=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/bg.jpg
+images/drop_shadow.png=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/drop_shadow.png

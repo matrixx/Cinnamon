@@ -1,0 +1,13 @@
+[Item]
+Name=Image Mask
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=https://qt.gitorious.org/qt-labs/qml1-shadersplugin
+StartUrl=ImageMask.qml
+ImageUrl=images/imagemask.png
+Online=1
+[Resources]
+ImageMask.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/ImageMask.qml
+ImageMaskEffect.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/ImageMaskEffect.qml
+images/image1.jpg=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/image1.jpg
+images/image2.jpg=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/image2.jpg

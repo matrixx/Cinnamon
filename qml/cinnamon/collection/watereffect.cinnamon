@@ -1,0 +1,12 @@
+[Item]
+Name=Water
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=https://qt.gitorious.org/qt-labs/qml1-shadersplugin
+StartUrl=Water.qml
+ImageUrl=images/water.png
+Online=1
+[Resources]
+Water.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/Water.qml
+WaterEffect.qml=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/WaterEffect.qml
+images/sky.jpg=https://qt.gitorious.org/qt-labs/qml1-shadersplugin/blobs/raw/master/examples/shadereffects/qml/shadereffects/images/sky.jpg

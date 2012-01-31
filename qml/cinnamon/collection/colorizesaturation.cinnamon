@@ -1,0 +1,8 @@
+[Item]
+Name=Colorize - Saturation
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=http://qt.gitorious.org/qt-labs/qtgraphicaleffects
+StartUrl=examples/ColorizeShader/ColorizeSaturation.qml
+ImageUrl=images/saturation.png
+Online=1

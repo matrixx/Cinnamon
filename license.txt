@@ -1,0 +1,2 @@
+Cinnamon Viewer 2011-2012
+License GPL 2.0 and higher.

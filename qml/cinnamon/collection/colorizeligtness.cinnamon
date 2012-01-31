@@ -1,0 +1,8 @@
+[Item]
+Name=Colorize - Lightness
+Project=qml1-shaderplugin
+Author=QtLabs
+ProjectUrl=http://qt.gitorious.org/qt-labs/qtgraphicaleffects
+StartUrl=examples/ColorizeShader/ColorizeLightness.qml
+ImageUrl=images/lightness.png
+Online=1
